@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1726336021 source:c:\users\legom\documents\code\repos\oops-shall-we-try-again-la59021\main.cpp
+	<iostream>
+	"Prompt.hpp"
+
+1726335140 c:\users\legom\documents\code\repos\oops-shall-we-try-again-la59021\prompt.hpp
+	<string>
+
+1726336388 source:c:\users\legom\documents\code\repos\oops-shall-we-try-again-la59021\prompt.cpp
+	<iostream>
+	<string>
+	"Prompt.hpp"
+
